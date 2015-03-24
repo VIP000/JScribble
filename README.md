@@ -1,17 +1,10 @@
 JScribble
-=========
+一个合作委员会（聊天和图纸）做实验用的node.js，Angular.js，socket.io和easel.js...
 
-An collaboration board (chat and drawing) experiment made with node.js, Angular.js, socket.io and easel.js...
+克隆它，只需运行节点app.js.然后打开两个不同的浏览器（而不是两个窗口或因为我使用的cookie相同的浏览器选项卡），开始茶亭和绘图。
 
-Clone it and just run node app.js. Then open two different browsers (not two windows or tabs of the same browser since
-I am using cookies), start chating and drawing.
+这主要是因为做了一个实验/学习的经验主要是把我的牙齿angular.js，socket.io和node.js中
 
-This was mostly done as an experiment/learning experience mostly to cut my teeth on angular.js, socket.io and node.js.
+JScribble的一个实例是在Heroku上运行和古董在murmuring-scrubland-9020.herokuapp.com。记住我还没有实现任何形式的会议/聊天室，每个人都可以看到你在JScribble所做的一切，人们完全地全球公共协作板。
 
-An instance of JScribble is curently running on heroku at 
-[murmuring-scrubland-9020.herokuapp.com](http://murmuring-scrubland-9020.herokuapp.com).
-Keep in mind I have not implemented any kind of session/chat room, everybody can see everything
-you do in JScribble, one worldwide completly public collaboration board.
-
-Tested on Chrome and Safari, probably won't work on IE, YMMV on Firefox. Also I have not put any effort at all in supporting
-touch for drawgin and in making the layour work on mobile.
+测试了Chrome和Safari浏览器，可能不会对IE，因人而异Firefox上运行。此外，我还没有把任何努力在所有支持触摸的drawgin以及使移动的layour工作。
